@@ -13,6 +13,6 @@
 * [C 资源大全](awesome-c-cn.md)
 * [C++ 资源大全](awesome-cpp-cn.md)
 * [DotNet 资源大全](awesome-dotnet-cn.md)
-* [设计师资源大全](awesome-design-cn.md)
 * [MySQL 资源大全](awesome-mysql-cn.md)
+* [设计师资源大全](awesome-design-cn.md)
 * [系统管理员资源大全](awesome-sysadmin-cn.md)
